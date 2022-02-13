@@ -23,8 +23,9 @@ function App() {
       <Header/>
       <Content>
         <Container text textAlign='center'>
-          
-          <p>hellow world</p>
+          <Image centered size='tiny' src={iconDevx} style={{marginBottom:"2em"}}/>
+          <p>Create React Ethereum DApp on Polygon</p>
+          <p>Build your first app with Starter Kits</p>
         </Container>
       </Content>
       <Footer/>
